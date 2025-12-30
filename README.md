@@ -122,4 +122,6 @@ Mert Bülbül
 Öğrenci No: 220502006
 Sektör Kampüste Projesi
 
+<img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/3d111f89-53df-432e-9d93-6288fe2992c2" />
+
 
