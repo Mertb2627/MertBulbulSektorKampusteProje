@@ -1,9 +1,9 @@
-# 🧠 Yapay Zeka Destekli Görüntü Sınıflandırıcı  
+# 🧠 Görüntü Sınıflandırıcı  
 ## Sektör Kampüste Proje – Streamlit Animals-10 Uygulaması
 
 Bu proje, **PyTorch** kullanılarak eğitilmiş bir **görüntü sınıflandırma modeli** ile
 kullanıcının yüklediği bir görselin hangi sınıfa ait olduğunu tahmin eden
-**yapay zeka destekli bir web uygulamasıdır**.
+**bir web uygulamasıdır**.
 
 Uygulama, **Animals-10 veri seti** üzerinde **ResNet18 (Transfer Learning)**
 yaklaşımıyla eğitilmiş bir modeli kullanır ve sonuçları
